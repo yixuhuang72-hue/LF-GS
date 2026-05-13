@@ -30,7 +30,7 @@ data/
 ```
 
 
-(1) Point cloud initialization: Referring to VGGT (https://github.com/facebookresearch/vggt), we adopt the VGGT+BA approach for point cloud initialization.
+(1) Point cloud initialization: Referring to COLMAP (https://github.com/colmap/colmap), we adopt the COLMAP approach for point cloud initialization.
 
 (2) Depth & Observability Map Generation
 
