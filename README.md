@@ -34,7 +34,7 @@ data/
 
 (2) Depth Map Generation
 
-● Depth Maps: Consistent with previous works, we arrange light field sub-aperture images into a pseudo-video sequence, and then use Video Depth Anything (https://github.com/DepthAnything/Video-Depth-Anything) to obtain depth maps.
+● Depth Maps: Consistent with the paper, we arrange light field sub-aperture images into a pseudo-video sequence, and then use Video Depth Anything (https://github.com/DepthAnything/Video-Depth-Anything) to obtain depth maps.
 
 Sample Data: Given the large volume of the original full dataset, the ./data directory only contains lightweight test data (central sub-aperture images only) for easy testing and validation.
 
