@@ -32,7 +32,7 @@ data/
 
 (1) Point cloud initialization: Referring to COLMAP (https://github.com/colmap/colmap), we adopt the COLMAP approach for point cloud initialization.
 
-(2) Depth & Observability Map Generation
+(2) Depth Map Generation
 
 ● Depth Maps: Consistent with previous works, we arrange light field sub-aperture images into a pseudo-video sequence, and then use Video Depth Anything (https://github.com/DepthAnything/Video-Depth-Anything) to obtain depth maps.
 
