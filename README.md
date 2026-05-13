@@ -1,5 +1,5 @@
 #  LF-GS: 3D Gaussian Splatting for View Synthesis of Multi-View Light Field Images
-[Paper](https://ieeexplore.ieee.org/document/11152586)
+[[Paper](https://ieeexplore.ieee.org/document/11152586)]
 
 ## 1. Installation
 This project uses conda environment management. Install dependencies via:
