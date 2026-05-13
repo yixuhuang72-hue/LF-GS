@@ -35,10 +35,6 @@ data/
 
 ● Depth Maps: Consistent with previous works, we arrange light field sub-aperture images into a pseudo-video sequence, and then use Video Depth Anything (https://github.com/DepthAnything/Video-Depth-Anything) to obtain depth maps.
 
-● Geometry-grounded Unobservable Maps: Calculated from depth confidence maps of  VGGT(https://github.com/facebookresearch/vggt)
-
-● Angular-dependent Unobservable Maps: Run angular_unobs_map.ipynb
-
 Sample Data: Given the large volume of the original full dataset, the ./data directory only contains lightweight test data (central sub-aperture images only) for easy testing and validation.
 
 ## 3. Training
